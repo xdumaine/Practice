@@ -293,6 +293,9 @@ header .banner {
     width: 110%;
     margin: 10px 0 0 -40px;
 }
+.post-wrapper center img {
+    width: auto;
+}
 .post-date {
     color: #9a9a9a;
     margin-bottom: 1.6em
